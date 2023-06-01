@@ -1,6 +1,4 @@
-# evil_robot_hehe
-
-## Lunar Rover Stage-1 (Renamed)
+# Lunar Rover Stage-1
 
 ## Stage-1 results:
 
