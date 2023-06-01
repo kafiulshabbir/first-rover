@@ -4,8 +4,18 @@
 
 //https://nrf24.github.io/RF24/
 
+/*
+ * This program sends a string
+ * "0-Hello World"
+ * "1-Hello World"
+ * ...
+ * "9-Hello World"
+ * "0-Hello World"
+ * Every 1000ms
+ */
+ 
 RF24 radio(9, 10); // CE, CSN
-//const byte address[6] = "00001";
+
 
 void setup() {
   radio.begin();
