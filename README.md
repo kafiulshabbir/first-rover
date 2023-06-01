@@ -14,9 +14,8 @@ Stage-1 rover overcoming obstacles: deadly mined marshmellow and a steep ramp
 2. [Bhuvan](https://github.com/Bhuv4nVam5i)
 3. [Reza](https://github.com/tesla0101)
 4. Ivan
-5. [Mahsood]
-
-Bhuvan 
+5. Mahsood
+ 
 ## Credits
 Researched, Designed, and Manufactured in [Phystech.Fabrica](https://miptfab.ru/), MIPT, Dolgoprudny.
 
